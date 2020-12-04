@@ -8,7 +8,7 @@
 // by the Apache License, Version 2.0, included in the file
 // licenses/APL.txt.
 
-// +build all-keywords
+// +build allkeywords
 
 // package main DELETE THIS LINE AND THE LINE ABOVE AND IT WORKS
 package main
